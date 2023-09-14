@@ -1,0 +1,1 @@
+The model we build able to perform classification of traffic sign based on the classes we defined in the source code. As for now, only the 58 classes we defined can be classify. The accuracy we achieved is around 91%. There are certain classes where images are misclassified which are probably due brightness of the images and low amount of data for certain class.
